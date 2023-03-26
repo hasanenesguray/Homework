@@ -16,7 +16,7 @@ st.set_page_config(
 # Başlık Ekleme
 st.title("Hasan Sinem'i ne kadar seviyor?")
 
-st.image("/Users/hasanenesguray/Desktop/Mavi/IMG-20220707-WA0003.jpg")
+st.image("IMG-20220707-WA0003.jpg")
 
 # Sidebarda Markdown Oluşturma
 st.sidebar.markdown("Hasan **Sinem'i** 100 üzerinden ne kadar seviyor?")
